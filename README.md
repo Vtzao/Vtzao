@@ -5,9 +5,8 @@
 <div style="display: inline_block"><br>
    <a href= "none"><img align="center" alt="Vtzao_Ai" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" />
    <a href= "none"><img align="center" alt="Vtzao_HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></a>
-   <a href= "none"><img align="center" alt="Vtzao_Py" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></a>
    <a href= "none"> <img align="center" alt="Vtzao_CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /></a>
-</div>
+   <a href= "none"><img align="center" alt="Vtzao_Py" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></a></br></div>
 
  ##
 

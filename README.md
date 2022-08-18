@@ -1,6 +1,6 @@
 ### Hello there 👋
 <img align="center" alt="Vtzao_Ai" height="125" width="290" src="https://comixrevenge.files.wordpress.com/2018/06/1r3fn3.jpg" />
-Sou o Vitor, gamer e estudante ambicioso de Análise e Desenvolvimento de Sistemas.
+<h2>Sou o Vitor, gamer e estudante ambicioso de Análise e Desenvolvimento de Sistemas.</h2>
 
 <div style="display: inline_block"><br>
    <a href= "none"><img align="center" alt="Vtzao_Ai" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" />

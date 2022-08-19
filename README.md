@@ -2,7 +2,6 @@
 <h2>Hello there 👋</h2>
 <img align="center" alt="Vtzao_Ai" height="220" width="505" src="https://comixrevenge.files.wordpress.com/2018/06/1r3fn3.jpg" />
 <h4>Sou o Vitor, gamer e estudante ambicioso de Análise e Desenvolvimento de Sistemas.</h4>
- ##
 <div style="display: inline_block"><br>
    <h5><b>Development Skills</b></h5>
    <a href= "none"><img align="center" alt="Vtzao_HTML" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></a>

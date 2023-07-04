@@ -8,6 +8,7 @@
    <a href= "none"><img align="center" alt="Vtzao_HTML" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></a>
    <a href= "none"> <img align="center" alt="Vtzao_CSS" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /></a>
    <a href= "none"><img align="center" alt="Vtzao_Py" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></a></br></div>
+   <a href= "none"><img align="center" alt="Vtzao_Py" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/angularjs/angularjs-original.svg" /></a></br></div>
 <div style="display: inline_block" align="center"><br>
    <h5><b>Design Skills</b></h5>
    <a href= "none"><img align="center" alt="Vtzao_Ai" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" /></a>

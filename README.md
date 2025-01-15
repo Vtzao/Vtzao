@@ -7,13 +7,16 @@
    <h5><b>Development Skills</b></h5>
    <a href= "none"><img align="center" alt="Vtzao_HTML" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></a>
    <a href= "none"> <img align="center" alt="Vtzao_CSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /></a>
+   <a href= "none"><img align="center" alt="Vtzao_bootstrap" height="40" width="50" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/></a>
    <a href= "none"><img align="center" alt="Vtzao_js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></a>
    <a href= "none"><img align="center" alt="Vtzao_ts" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /></a>
    <a href= "none"><img align="center" alt="Vtzao_Angular" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/angularjs/angularjs-original.svg" /></a>
    <a href= "none"><img align="center" alt="Vtzao_Py" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></a>
-   <a href= "none"><img align="center" alt="Vtzao_php" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" /></a>
+   <a href= "none"><img align="center" alt="Vtzao_php" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" /></a>
    <a href= "none"><img align="center" alt="Vtzao_sql" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /></a>
-   <a href= "none"><img align="center" alt="Vtzao_bootstrap" height="40" width="50" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/></a></br></div>
+   <a href= "none"><img align="center" alt="Vtzao_springboot" height="40" width="50" img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"/></a>
+   <a href= "none"><img align="center" alt="Vtzao_java" height="40" width="50" img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"/></a>
+</div>
 <div style="display: inline_block" align="center"><br>
    <h5><b>Design Skills</b></h5>
    <a href= "none"><img align="center" alt="Vtzao_Ai" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" /></a>

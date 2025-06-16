@@ -14,6 +14,7 @@
    <a href= "none"><img align="center" alt="Vtzao_Py" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></a>
    <a href= "none"><img align="center" alt="Vtzao_php" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" /></a>
    <a href= "none"><img align="center" alt="Vtzao_sql" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /></a>
+   <a href= "none"><img align="center" alt="Vtzao_sales" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/salesforce/salesforce-original.svg" /></a>
    <a href= "none"><img align="center" alt="Vtzao_springboot" height="40" width="50" img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"/></a>
    <a href= "none"><img align="center" alt="Vtzao_java" height="40" width="50" img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"/></a>
 </div>

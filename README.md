@@ -19,7 +19,7 @@ Atualmente focado na intersecção entre **Inteligência Artificial** e **Ciênc
 
 ## 🛠️ Tech Stack & Skills
 
-### 💻 Development & Data Science
+### 💻 Development Skills
 <div style="display: inline_block">
   <img align="center" alt="Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img align="center" alt="Angular" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/angularjs/angularjs-original.svg" />
@@ -29,12 +29,6 @@ Atualmente focado na intersecção entre **Inteligência Artificial** e **Ciênc
   <img align="center" alt="SQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 </div>
 
-### 🎨 Design & Experience (UX)
-<div style="display: inline_block">
-  <img align="center" alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-  <img align="center" alt="Illustrator" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" />
-  <img align="center" alt="Photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
-</div>
 
 ---
 

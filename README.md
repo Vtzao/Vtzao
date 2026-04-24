@@ -4,7 +4,7 @@
   <img src="https://comixrevenge.files.wordpress.com/2018/06/1r3fn3.jpg" width="500" alt="Vitor Banner" style="border-radius: 10px;">
 </p>
 
-<h3 align="center">🚀 Analista de Soluções e Dados Comerciais · Especialista Front-end & UX/UI</h3>
+<h3 align="center"> Analista de Soluções e Dados Comerciais · Especialista Front-end & UX/UI</h3>
 
 <p align="center">
   Focado na intersecção entre <strong>Inteligência Artificial</strong> e <strong>Ciência de Dados</strong>,<br>
@@ -13,7 +13,7 @@
 
 ---
 
-## 🧠 Sobre Mim
+## Sobre Mim
 
 - 🎓 **Pós-graduando** em Inteligência Artificial e Ciência de Dados
 - 💼 **Soluções & Dados:** Experiência em otimizar processos comerciais e transformar dados em decisões estratégicas
